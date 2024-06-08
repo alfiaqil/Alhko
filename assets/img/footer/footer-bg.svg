@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="1692" height="517" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <clipPath id="a">
+  <path d="m159,5841l1692,0l0,517l-1692,0l0,-517z" id="svg_1"/>
+ </clipPath>
+ <linearGradient gradientUnits="objectBoundingBox" id="b" x1="0.4" x2="0.41" y1="-0.34" y2="0.82">
+  <stop offset="0" stop-color="#737dfc"/>
+  <stop offset="1" stop-color="#5864ff"/>
+ </linearGradient>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#a)" id="svg_2" transform="translate(-159 -5841)">
+   <path d="m137.59,6393c62.21,-79.01 157.84,-232.31 251.61,-305.49c347.56,-270.68 504.05,31.95 1066.28,-204.39c356.45,-149.84 405.56,239.18 393.79,508.73l-1711.68,1.15z" fill="#ff8810" id="svg_3" transform="matrix(1 0 0 1 0 0)"/>
+   <path d="m-113.15,1297.79c-41.4,-185.71 96.46,-247.98 228.03,-344.27c255.55,-186.62 370.25,-9.85 783.64,-172.8s264.57,517.07 264.57,517.07l-1276.24,0z" fill="#fff" id="svg_4" opacity="0.05" transform="translate(515.633 5267.644)"/>
+   <path d="m1815.31,6565.43c41.4,-185.71 -96.46,-247.98 -228.02,-344.27c-255.55,-186.62 -370.26,-9.85 -783.65,-172.8s-264.57,517.07 -264.57,517.07l1276.24,0z" fill="#d36b00" id="svg_5"/>
+  </g>
+ </g>
+</svg>

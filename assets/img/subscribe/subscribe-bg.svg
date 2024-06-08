@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="1170" height="256" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <linearGradient gradientUnits="objectBoundingBox" id="a" x1="0.51" x2="0.5" y1="1.06">
+  <stop offset="0" stop-color="#6b75fb"/>
+  <stop offset="1" stop-color="#5864ff"/>
+ </linearGradient>
+ <clipPath id="b">
+  <rect height="256" id="svg_1" rx="29" transform="translate(0 .493)" width="1170"/>
+ </clipPath>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#d36b00" height="256" id="svg_2" rx="29" width="1170"/>
+  <g clip-path="url(#b)" id="svg_3" transform="matrix(1 0 0 1 0 0)">
+   <path d="m0,181.12l9.75,14.27c9.75,14.28 29.25,42.83 48.75,23.83c19.5,-19.36 39,-85.4 58.5,-99.94c19.5,-14.01 39,23.47 58.5,38.01c19.5,14.01 39,5.09 58.5,0c19.5,-4.73 39,-4.73 58.5,-14.27c19.5,-9.2 39,-28.83 58.5,-4.73s39,90.12 58.5,123.76c19.5,33.28 39,33.28 58.5,4.73s39,-85.66 58.5,-114.22s39,-28.55 58.5,-38.1c19.5,-9.19 39,-28.82 58.5,-4.73s39,90.13 58.5,123.77c19.5,33.28 39,33.28 58.5,4.73s39,-85.67 58.5,-104.67c19.5,-19.36 39,0.27 58.5,28.55c19.5,28.82 39,66.3 58.5,95.12c19.5,28.29 39,47.92 58.5,14.28c19.5,-33.28 39,-118.94 58.5,-128.49c19.5,-9.19 39,56.84 58.5,57.11c19.5,-0.27 39,-66.3 48.75,-99.94l9.75,-33.29l0,-28.55l-1170,0l0,142.77z" fill="#ff8810" id="svg_4" transform="translate(0 -74.675)"/>
+  </g>
+ </g>
+</svg>

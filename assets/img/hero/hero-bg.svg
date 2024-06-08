@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="1781.408" height="796.067" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <linearGradient gradientUnits="objectBoundingBox" id="a" x1="0.5" x2="0.5" y2="1">
+  <stop offset="0" stop-color="#5864ff"/>
+  <stop offset="1" stop-color="#6a74ff"/>
+ </linearGradient>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m1771.23,0c56.29,272.62 -131.19,364.02 -310.13,505.37c-347.57,273.96 -503.57,14.47 -1065.8,253.68s-359.84,-759.05 -359.84,-759.05l1735.77,0z" fill="#d36b00" id="svg_1"/>
+  <path d="m173.31,1.64c-41.4,185.71 96.46,247.98 228.03,344.27c255.55,186.62 370.25,9.85 783.64,172.8s264.57,-517.07 264.57,-517.07l-1276.24,0z" fill="#ff8810" id="svg_2" transform="matrix(1 0 0 1 0 0)"/>
+ </g>
+</svg>
